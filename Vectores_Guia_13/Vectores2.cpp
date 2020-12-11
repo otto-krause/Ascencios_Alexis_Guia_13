@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
-
-int main(){
+//Falta función
+int main()
+{
 	
 	int a,numprom=0,numero[5],nummay;
 	for (a=0;a<5;a++)
@@ -11,7 +12,7 @@ int main(){
 	if (nummay<numero[a])
 	{
 	nummay=numero[a];
-	};
+	}//;?
 	}
 	for (a=0;a<5;a++)
 	{
